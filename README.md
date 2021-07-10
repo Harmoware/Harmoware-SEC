@@ -1,4 +1,4 @@
-# Secure Platform Tool with Anomaly Traffic Detection Using Unsupervised Machine Learning
+# Secure Platform Library with Anomaly Traffic Detection Using Unsupervised Machine Learning
 
 In this project, we are developing an unsupervised learning method for detecting anomaly communication in our network, focusing on the transitions between clusters of communication.
 To defend against advanced cybersecurity threats, a huge amount of logs and alerts from security devices must be efficiently analyzed.
